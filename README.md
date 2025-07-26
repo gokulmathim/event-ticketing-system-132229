@@ -1,1 +1,3 @@
-# event-ticketing-system-132229
+# Project Repository
+
+This is the initial README file for the project.
